@@ -1,13 +1,66 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EIT - Software Training Institute</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 2px solid #e0e0e0;
+        }
+        h1 {
+            color: #dc3545; /* Red color for the title */
+            margin: 0;
+            font-size: 2.5em;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .contact-info {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .contact-info p {
+            margin: 20px 0;
+        }
+        footer {
+            background-color: #f8f9fa;
+            padding: 10px;
+            text-align: center;
+            border-top: 2px solid #e0e0e0;
+        }
+    </style>
+</head>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
-  
-  <h2> Call Us : +91-9985396677 / +91 - 9985296677 </h2>
-  
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
+<header>
+    <h1>Welcome to EIT - Software Training Institute</h1>
+</header>
 
+<main>
+    <div class="contact-info">
+        <p><a href="https://ashokitech.com/online-training-schedules">Click Here to See EIT Training Schedules</a></p>
+    </div>
+</main>
+
+<footer>
+    <p>&copy; 2024 EIT. All rights reserved.</p>
+</footer>
 
 </body>
 </html>
