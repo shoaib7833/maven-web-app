@@ -54,7 +54,7 @@
 
 <main>
     <div class="contact-info">
-        <p><a href="#" onclick="this.parentNode.innerHTML='Waleed<br>Asad<br>Zohaib<br>Shoaib<br>';">Click Here to See Team C members</a></p>
+        <p><a href="#" onclick="this.parentNode.innerHTML='Waleed<br>Asad<br>Zohaib<br>Shoaib';">Click Here to See Team C members</a></p>
     </div>
 </main>
 
