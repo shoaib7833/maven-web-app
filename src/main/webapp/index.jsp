@@ -49,7 +49,7 @@
 <body>
 
 <header>
-    <h1>Welcome to EIT-- - Software Training Institute</h1>
+    <h1>Welcome to EIT - Software Training Institute</h1>
 </header>
 
 <main>
